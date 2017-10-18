@@ -51,9 +51,9 @@
 		<fieldset>
 			<legend>Datos del Alumno</legend>
 				<label id="name">Nombre</label>
-				<input type="text" name="name" id="nombre">
+				<input type="text" name="nombre1" id="nombre">
 				<label>Apellido</label>
-				<input type="text" name="lastname" id="apellido">
+				<input type="text" name="apellido1" id="apellido">
 				<label>Sexo</label>
 				<input type="radio" name=""><label>Masculino</label>
 				<input type="radio" name=""><label>Femenino</label>
